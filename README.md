@@ -1,1 +1,1 @@
-# lecture-algorithm
+# 알고리즘 강의를 위한 공간
